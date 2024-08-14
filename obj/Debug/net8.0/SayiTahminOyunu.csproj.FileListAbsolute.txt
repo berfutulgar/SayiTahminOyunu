@@ -1,0 +1,15 @@
+C:\Users\COSMOS\SayiTahminOyunu\bin\Debug\net8.0\SayiTahminOyunu.exe
+C:\Users\COSMOS\SayiTahminOyunu\bin\Debug\net8.0\SayiTahminOyunu.deps.json
+C:\Users\COSMOS\SayiTahminOyunu\bin\Debug\net8.0\SayiTahminOyunu.runtimeconfig.json
+C:\Users\COSMOS\SayiTahminOyunu\bin\Debug\net8.0\SayiTahminOyunu.dll
+C:\Users\COSMOS\SayiTahminOyunu\bin\Debug\net8.0\SayiTahminOyunu.pdb
+C:\Users\COSMOS\SayiTahminOyunu\obj\Debug\net8.0\SayiTahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COSMOS\SayiTahminOyunu\obj\Debug\net8.0\SayiTahminOyunu.AssemblyInfoInputs.cache
+C:\Users\COSMOS\SayiTahminOyunu\obj\Debug\net8.0\SayiTahminOyunu.AssemblyInfo.cs
+C:\Users\COSMOS\SayiTahminOyunu\obj\Debug\net8.0\SayiTahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\COSMOS\SayiTahminOyunu\obj\Debug\net8.0\SayiTahminOyunu.sourcelink.json
+C:\Users\COSMOS\SayiTahminOyunu\obj\Debug\net8.0\SayiTahminOyunu.dll
+C:\Users\COSMOS\SayiTahminOyunu\obj\Debug\net8.0\refint\SayiTahminOyunu.dll
+C:\Users\COSMOS\SayiTahminOyunu\obj\Debug\net8.0\SayiTahminOyunu.pdb
+C:\Users\COSMOS\SayiTahminOyunu\obj\Debug\net8.0\SayiTahminOyunu.genruntimeconfig.cache
+C:\Users\COSMOS\SayiTahminOyunu\obj\Debug\net8.0\ref\SayiTahminOyunu.dll
